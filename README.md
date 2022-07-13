@@ -1,10 +1,10 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-### Hi there, I'm  Vishal Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+ 
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Vishal Singh 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Vishal Singh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-singh-326a71224/)](https://www.linkedin.com/in/vishal-singh-326a71224/)
+### नमस्ते (Namaste)🙏🏻, I am Vishal Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+[![Linkedin Badge](https://img.shields.io/badge/-Vishal Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-singh-326a71224/)](https://www.linkedin.com/in/vishal-singh-326a71224/)
 [![Gmail Badge](https://img.shields.io/badge/-vishal9sept@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishal9sept@gmail.com)](mailto:vishal9sept@gmail.com) 
 
 ### Glad to see you here! &nbsp;
