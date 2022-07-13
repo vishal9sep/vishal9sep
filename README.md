@@ -9,7 +9,9 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a Java Back-end developer. I enjoy programming, badminton and cricket.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
+</p>
 
 - 🔭 I’m currently working on an app that lets you buy and sell online merchendise based on the game you are playing, which will used by characters in the game played by the user.
 - 👯 I’m looking to collaborate on a Financial Web App that helps users to invest in stocks.
