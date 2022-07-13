@@ -2,9 +2,12 @@
 
 ### Hi there, I'm  Vishal Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-singh-326a71224)
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Vishal Singh 👋</h3> -->
+### नमस्ते (Namaste)🙏🏻, I am Vishal Singh 👋
+[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-singh-326a71224/)](https://www.linkedin.com/in/vishal-singh-326a71224/)
+[![Gmail Badge](https://img.shields.io/badge/-vishal9sept@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishal9sept@gmail.com)](mailto:vishal9sept@gmail.com) 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arjun1237.arjun1237)
+### Glad to see you here! &nbsp;
 
 I am a Java Back-end developer. I enjoy programming, badminton and cricket.
 
