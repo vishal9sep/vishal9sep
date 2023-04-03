@@ -20,10 +20,7 @@
 - ⚡ Fun fact: **I have participated in Collage Exchange Program and Studied for 3 months in SVCIT,Sichuan, China.**
 
 ## Tech Stack & Tools
-![React](https://img.shields.io/static/v1?label=&message=React&color=blue&logo=react&logoColor=FFFFFF)
-![Chakra-UI](https://img.shields.io/static/v1?label=&message=Chakra-UI&color=teal&logo=chakra-ui&logoColor=FFFFFF)
-![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=red&logo=Redux&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=blue&logo=TypeScript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=red&logo=css3&logoColor=FFFFFF)
 ![Html](https://img.shields.io/static/v1?label=&message=HTML&color=blue&logo=Html5&logoColor=FFFFFF)
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=brown&logo=java8&logoColor=FFFFFF)
