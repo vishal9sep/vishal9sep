@@ -19,7 +19,7 @@
 - 😄 Portfolio : https://portfolio-vishal9sep.vercel.app
 - ⚡ Fun fact: **I have participated in Collage Exchange Program and Studied for 3 months in SVCIT,Sichuan, China.**
 
-<h3 align="left">Languages and Tools:</h3>
+## Tech Stack & Tools
 ![React](https://img.shields.io/static/v1?label=&message=React&color=blue&logo=react&logoColor=FFFFFF)
 ![Chakra-UI](https://img.shields.io/static/v1?label=&message=Chakra-UI&color=teal&logo=chakra-ui&logoColor=FFFFFF)
 ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=red&logo=Redux&logoColor=FFFFFF)
@@ -35,7 +35,6 @@
 ![PostMan](https://img.shields.io/static/v1?label=&message=PostMan&color=orange&logo=postman&logoColor=FFFFFF)
 ![JWT](https://img.shields.io/static/v1?label=&message=JWT&color=000000&logo=JSON%20web%20tokens&logoColor=white)
 ![Aws](https://img.shields.io/static/v1?label=&message=Amazon_AWS&colorFF9900&logo=amazonaws&logoColor=white)
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal9sep&show_icons=true&locale=en" alt="vishal9sep" /></p>
 
